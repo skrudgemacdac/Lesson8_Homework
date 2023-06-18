@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_and_Deserialization", "Serialization_and_Deserialization\Serialization_and_Deserialization.csproj", "{E28D8DB1-B467-49B3-9866-67FC06CA2BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelieveOrNotBelieve", "BelieveOrNotBelieve\BelieveOrNotBelieve.csproj", "{CCF937EF-ACCE-41E6-9AC6-C64536E84E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E28D8DB1-B467-49B3-9866-67FC06CA2BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28D8DB1-B467-49B3-9866-67FC06CA2BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28D8DB1-B467-49B3-9866-67FC06CA2BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28D8DB1-B467-49B3-9866-67FC06CA2BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF937EF-ACCE-41E6-9AC6-C64536E84E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF937EF-ACCE-41E6-9AC6-C64536E84E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF937EF-ACCE-41E6-9AC6-C64536E84E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF937EF-ACCE-41E6-9AC6-C64536E84E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B5999C-BACE-4D8C-9221-995361B8C458}
+	EndGlobalSection
+EndGlobal
